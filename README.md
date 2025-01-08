@@ -1,6 +1,6 @@
 # Simple UART Project
 
-This project implements a simple UART (Universal Asynchronous Receiver-Transmitter) module in Verilog. The UART is a common serial communication protocol used for transmitting data between devices.
+This repository contains the Verilog implementation of a Universal Asynchronous Receiver-Transmitter (UART) system. The project includes the design and simulation of both the transmitter (TX) and receiver (RX) modules, as well as a testbench to verify the functionality of the UART system.
 
 ## Project Structure
 
@@ -14,6 +14,15 @@ The project includes the following files:
 - **mux.v:** Verilog code for a multiplexer module.
 - **test.v:** Verilog code for the UART testbench.
 
+## Images from the simulation
+
+- the initial schematic diagram design for the UART
+
+![Screenshot 2025-01-08 155653](https://github.com/user-attachments/assets/078b20bd-7869-4d5b-8e52-6e7ac2bcbf5e)
+
+- Final schematic diagram
+  
+![Screenshot 2025-01-08 163030](https://github.com/user-attachments/assets/f7b4998e-1473-41c8-9fec-962cea4c7a77)
 
 ## References
 
